@@ -49,6 +49,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-bottom: 30px;
 }
 
 button{
@@ -57,7 +58,7 @@ button{
   color: #FFF;
   font-size: 20px;
   width: 80%;
-  padding: 15px;
+  padding: 12px;
 }
 
 button a{
