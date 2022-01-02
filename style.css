@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;500&family=Libre+Baskerville:wght@700&family=Poppins:ital,wght@0,200;0,400;0,600;1,200;1,400&family=Roboto:wght@300;400;500&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+.Cercle{
+  width: 120px;
+  height: 120px;
+  border-bottom-right-radius: 90%;
+  background-color: #93B5C6;
+}
+
+.img{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 30px 0 20px 0;
+}
+
+.img img{
+  width: 80%;
+}
+
+.content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content h1{
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.content p{
+  font-size: 16px;
+  width: 90%;
+  padding-left: 25px;
+  margin-bottom: 25px;
+  line-height: 30px;
+}
+
+.btn{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button{
+  border: none;
+  background-color: #99B8C8;
+  color: #FFF;
+  font-size: 20px;
+  width: 80%;
+  padding: 15px;
+}
+
+button a{
+  color: white;
+  text-decoration: none;
+  list-style-type: none;
+}
