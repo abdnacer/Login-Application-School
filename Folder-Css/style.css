@@ -52,16 +52,16 @@
   margin-bottom: 30px;
 }
 
-button{
+.btn button{
   border: none;
   background-color: #99B8C8;
   color: #FFF;
   font-size: 20px;
-  width: 80%;
-  padding: 12px;
+  width: 100%;
+  padding: 10px 100px;
 }
 
-button a{
+.btn a{
   color: white;
   text-decoration: none;
   list-style-type: none;
