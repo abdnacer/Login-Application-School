@@ -13,8 +13,8 @@
 }
 
 .Cercle{
-  width: 120px;
-  height: 120px;
+  width: 100px;
+  height: 100px;
   border-bottom-right-radius: 90%;
   background-color: var(--color-green);
 }
